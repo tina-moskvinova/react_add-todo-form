@@ -86,7 +86,6 @@ export const App = () => {
             }}
           />
           {errors.title && <span className="error">Please enter a title</span>}
-          <span className="error">Please enter a title</span>
         </div>
 
         <div className="field">
